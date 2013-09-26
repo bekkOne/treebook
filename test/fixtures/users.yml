@@ -3,5 +3,8 @@ tomas:
     last_name: = "Bezdek"
     email: = "bezdekt1@gmail.com"
     profile_name: = "bekk"
-    # password: = "password"
-    # password_confirmation: = "password"
+honza:
+    first_name: = "Honza"
+    last_name: = "Bezdek"
+    email: = "bezdekt12@gmail.com"
+    profile_name: = "guru"
